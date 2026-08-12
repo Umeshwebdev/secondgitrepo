@@ -1,5 +1,4 @@
 # secondgitrepo
-second git reppo
+Second git Repository.
 <br>
-<hr>
-Created By: Umesh
+<h1>Created By: Umesh</h1>
